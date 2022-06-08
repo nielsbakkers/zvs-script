@@ -49,6 +49,10 @@ chmod +x scan_v8.sh
 ./scan_v8.sh
 ```
 
+## Result
+
+https://user-images.githubusercontent.com/72097417/172565691-28dfb63d-0dfd-4cc3-9c76-726b1e1a55ae.mp4
+
 ## Contact
 
 Created by [@nbakkers](https://nbakkers.nl) - Feel free to contact me!
